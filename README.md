@@ -1,4 +1,4 @@
-# usdtc-community-token# USDTC Community Utility Token
+USDTC Virtual Digital Asset
 
 USDTC is an independent, community-driven BEP-20 rebase token deployed on BNB Smart Chain (BSC). The project is designed for educational, experimental, and internal community use, focusing on demonstrating token rebasing mechanics, supply dynamics, and smart contract automation.
 
