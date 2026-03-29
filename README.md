@@ -1,6 +1,8 @@
+![USDTC Logo](usdtc_Logo.png)
 # USDTC – Virtual Digital Asset (VDA)
 
 USDTC is a BEP20 token on BNB Smart Chain designed for ecosystem participation, community engagement, and decentralized market experimentation.
+USDTC is a Virtual Digital Asset (VDA) and not a stablecoin.
 
 ## 🔗 Official Links
 
