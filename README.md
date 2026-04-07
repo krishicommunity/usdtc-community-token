@@ -6,7 +6,7 @@ USDTC is a Virtual Digital Asset (VDA) and not a stablecoin.
 
 ## 🔗 Official Links
 
-Website: https://usdtc-community.co.in/  
+Website: https://usdtcprotocol.com/ 
 BscScan: https://bscscan.com/token/0x9bd1A819e773A5A7d0DdE4799056D55858Ace0Be  
 PancakeSwap: https://pancakeswap.finance/swap?outputCurrency=0x9bd1A819e773A5A7d0DdE4799056D55858Ace0Be  
 Telegram: https://t.me/usdtctoken  
