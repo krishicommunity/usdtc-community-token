@@ -1,7 +1,7 @@
 ![USDTC Logo](usdtc-500x500-1.png)
 # USDTC – Community Token
 USDTC is a BEP20 token on BNB Smart Chain designed for ecosystem participation, community engagement, and decentralized market experimentation.
-USDTC is a Virtual Digital Asset (VDA) and not a stablecoin.
+USDTC is a Community Token and not a stablecoin.
 
 ## 🔗 Official Links
 
