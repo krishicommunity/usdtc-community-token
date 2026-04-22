@@ -1,11 +1,10 @@
-![USDTC Logo](usdtc-500x500-1.png)
-# USDTC – Community Token
+![USDTC Logo](usdtc_Logo.png)
+# USDTC – Experimental Community Token
 USDTC is a BEP20 token on BNB Smart Chain designed for ecosystem participation, community engagement, and decentralized market experimentation.
-USDTC is a Community Token and not a stablecoin.
-
+The USDTC token is an independent community-driven project and is not affiliated with or derived from USDT (Tether). The branding and logo have been updated to avoid any confusion.
 ## 🔗 Official Links
 
-Website: https://usdtc-community.co.in/
+Website: https://usdtcexperimental.com
 BscScan: https://bscscan.com/token/0x9bd1A819e773A5A7d0DdE4799056D55858Ace0Be  
 PancakeSwap: https://pancakeswap.finance/swap?outputCurrency=0x9bd1A819e773A5A7d0DdE4799056D55858Ace0Be  
 Telegram: https://t.me/usdtctoken  
